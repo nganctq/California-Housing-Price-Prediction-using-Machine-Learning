@@ -1,0 +1,2 @@
+# California-Housing-Price-Prediction-using-Machine-Learning
+Analyzed and built models to predict California housing prices. Process included in-depth data preprocessing (cleaning, IQR-MICE for outliers, normalization), EDA, and building/evaluating regression (Linear, Ridge, Lasso) &amp; ML models (Random Forest, XGBoost). Applied PCA, VIF checks, and LIME for model interpretation and improvement. (348 ký tự)
